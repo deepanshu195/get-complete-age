@@ -1,0 +1,26 @@
+{
+  "name": "get-complete-age",
+  "version": "1.0.0",
+  "description": "This package lets you give exact info of your dob.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepanshu195/get-complete-age.git"
+  },
+  "keywords": [
+    "complete",
+    "age",
+    "date",
+    "time",
+    "days"
+  ],
+  "author": "Deepanshu garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepanshu195/get-complete-age/issues"
+  },
+  "homepage": "https://github.com/deepanshu195/get-complete-age#readme"
+}
