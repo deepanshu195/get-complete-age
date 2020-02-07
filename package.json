@@ -1,6 +1,6 @@
 {
   "name": "get-complete-age",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "This package lets you give exact info of your dob.",
   "main": "index.js",
   "scripts": {

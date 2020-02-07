@@ -45,4 +45,4 @@ const getAge = data => {
   }
 };
 
-module.export = { getAge };
+exports.getAge = { getAge };
