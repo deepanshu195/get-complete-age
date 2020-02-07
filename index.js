@@ -44,4 +44,5 @@ const getAge = data => {
     };
   }
 };
+
 module.export = { getAge };

@@ -6,9 +6,9 @@ The idea came when I coundn't find any package which gave me complete details of
 # Usage
 
 ```sh
-$ npm get-complete-age
-$ import {getAge} from "get-complete-age"
-$ getAge(yourDob)
+ npm get-complete-age
+ import {getAge} from "get-complete-age"
+ getAge(yourDob)
 ```
 
 # Response
