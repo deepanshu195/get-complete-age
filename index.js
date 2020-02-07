@@ -40,8 +40,8 @@ const getAge = data => {
     fm = Math.abs(fm);
     // return fy + "Y " + fm + "M " + fd + "D";
     return {
-      year: fy,
-      month: fm,
+      years: fy,
+      months: fm,
       days: fd
     };
   }

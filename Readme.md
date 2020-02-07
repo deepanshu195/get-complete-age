@@ -13,10 +13,15 @@ $ getAge(yourDob)
 
 # Respnose
 
+Response would be an object
+
 ```sh
-$ npm get-complete-age
-$ import {getAge} from "get-complete-age"
-$ getAge(yourDob)
+$
+{
+    "years"  :"years passed in int",
+    "months" :"months passed in int",
+    "days"   :"days passed in int",
+}
 ```
 
 # Upcoming Features!
