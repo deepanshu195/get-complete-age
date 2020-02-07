@@ -11,12 +11,11 @@ $ import {getAge} from "get-complete-age"
 $ getAge(yourDob)
 ```
 
-# Respnose
+# Response
 
 Response would be an object
 
 ```sh
-$
 {
     "years"  :"years passed in int",
     "months" :"months passed in int",
@@ -28,8 +27,7 @@ $
 
 - Give time details also.
 - play with dates
--
 
-You can also checkout my upcoming profile [link][plink] soon.
+<!-- You can also checkout my upcoming profile [link][plink] soon. -->
 
-[plink]: https://google.com
+<!-- [plink]: https://google.com -->

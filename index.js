@@ -32,13 +32,11 @@ const getAge = data => {
     }
     if (fd < 0) {
       fm = fm - 1;
-      //   fd = Math.abs(fd);
       fd = numOfDays - d2 + d;
     }
     fy = Math.abs(fy);
     fd = Math.abs(fd);
     fm = Math.abs(fm);
-    // return fy + "Y " + fm + "M " + fd + "D";
     return {
       years: fy,
       months: fm,
